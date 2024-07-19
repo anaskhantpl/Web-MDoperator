@@ -1,0 +1,26 @@
+apiVersion: v1
+entries:
+  web-mdoperator:
+  - apiVersion: v2
+    appVersion: 1.11.0
+    created: "2024-07-19T23:17:24.261323476+02:00"
+    description: Postgres Operator creates and manages PostgreSQL clusters running
+      in Kubernetes
+    digest: 4fe4dc2811af7a78e623f6e3e1af3ddd2e9478b0675d5e8105e333b246f54d98
+    home: https://github.com/zalando/postgres-operator
+    keywords:
+    - postgres
+    - operator
+    - cloud-native
+    - patroni
+    - spilo
+    maintainers:
+    - email: opensource@zalando.de
+      name: Zalando
+    name: web-mdoperator
+    sources:
+    - https://github.com/zalando/postgres-operator
+    urls:
+    - web-mdoperator-1.11.0.tgz
+    version: 1.11.0
+generated: "2024-07-19T23:17:24.256183093+02:00"
